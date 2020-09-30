@@ -1,5 +1,5 @@
-- 0 food list
-- 1 Burrito
-- 2 taco
-- 3 pizza
-- 4 hawaiian 
+- food list
+- Burrito
+- taco
+- pizza
+- hawaiian 
